@@ -91,6 +91,7 @@ body {
 
 .conteudo-principal-escrito-botao:hover {
     background-color: #204112;
+    cursor: pointer;
 }
 
 .Conteudo-principal-imagem {
